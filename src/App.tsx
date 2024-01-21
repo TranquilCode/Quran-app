@@ -24,7 +24,7 @@ import { Routes, Route } from "react-router-dom";
 import QuranPage from "./components/QuranPage";
 import { HomePage } from "./components/HomePage";
 import QuranDetails from "./components/QuranDetails";
-import Reciters from "./components/reciters";
+import Reciters from "./components/Reciters"
 
 function App() {
   return (
